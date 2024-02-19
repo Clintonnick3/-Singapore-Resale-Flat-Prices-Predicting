@@ -25,7 +25,7 @@ This project requires the following:
 
 * Firstly get the data from the source, which is a collection of datasets on the resale prices of flats in Singapore from 1990 to till date. The data can be downloaded from [this link](https://beta.data.gov.sg/collections/189/view).
 
-* The process moves to cleaning the data and deal with data types. This involves checking for missing values, outliers, duplicates, and errors in the data. It also involves converting categorical variables into numerical ones, such as using one-hot encoding or label encoding. Additionally, it involves scaling or normalizing the numerical variables to have similar ranges and distributions resale_data.ipynb.
+* The process moves to cleaning the data and deal with data types. This involves checking for missing values, outliers, duplicates, and errors in the data. It also involves converting categorical variables into numerical ones, such as using one-hot encoding or label encoding. Additionally, it involves scaling or normalizing the numerical variables to have similar ranges and distributions [Singapore resale_flat prices prediction.ipynb](https://github.com/Clintonnick3/-Singapore-Resale-Flat-Prices-Predicting/blob/main/Singapore%20Resale%20Flat%20Prices%20Prediction.ipynb).
 
 * Then, performed feature engineering to increase the accuracy of the model. This involves creating new features from existing ones, such as using polynomial features, interaction terms, or domain knowledge. It also involves selecting the most relevant features for the model, such as using correlation analysis, feature importance, or dimensionality reduction techniques.
 
