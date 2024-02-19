@@ -35,3 +35,9 @@ This project requires the following:
 
 # App ScreenShots :camera:
 
+Initial app layout before prediction 
+![first](https://github.com/Clintonnick3/-Singapore-Resale-Flat-Prices-Predicting/assets/129974527/a15bdf53-da8b-4d7b-bb67-134792ddeeeb)
+
+Finally! layout of predicted resale price in Singapore dollars and converted into Indian Rupees
+![sec](https://github.com/Clintonnick3/-Singapore-Resale-Flat-Prices-Predicting/assets/129974527/dcbecbdd-53a2-44d3-bb91-d8c4f85b8d8e)
+
